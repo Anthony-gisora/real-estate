@@ -10,7 +10,6 @@ function App() {
   return (
     <Routes>
 
-      {/* Root URL */}
       <Route path="/" element={
         <AppLayout>
           <NavBar />
@@ -23,7 +22,6 @@ function App() {
         <AppLayout>
           <NavBar />
           <Houses />
-          {/* <Footer /> */}
         </AppLayout>
       } />
 
