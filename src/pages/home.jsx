@@ -11,7 +11,7 @@ const Home =()=>{
                 <p className='md:text-[22px] text-[24px] font-semibold font-serif text-[#f71bd2]'>Own, Rent & Hire</p>
             </div>
             <div className="md:w-[40%] w-[90%] text-[24px] flex justify-center items-center flex-col">
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam laudantium ad asperiores cumque deserunt error eius incidunt. Rerum, animi ducimus?</p>
+                <p>This is the best platform through which you access or get hooked up to your most lovely eastate you have been desiring to be in. You can proceed to <em>View</em> your desired estate...</p>
                 <button onClick={()=> navigate('/houses')} className='bg-[#f71bd2b9] w-fit mt-[9px] md:mt-0 p-[8px] self-center rounded-md hover:bg-transparent hover:text-pink-500 hover:border-b-[3px] hover:border-pink-600 hover:rounded-none'>View</button>
                 
             </div>
